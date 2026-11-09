@@ -10,7 +10,7 @@ Built with a lightweight vanilla JavaScript frontend and a Node.js + Express bac
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. User Authentication & Security
 - Secure user registration and login using email and password.
@@ -116,7 +116,7 @@ The seller's and customer's state codes determine the applicable GST treatment.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technologies |
 |---|---|
@@ -136,7 +136,7 @@ The seller's and customer's state codes determine the applicable GST treatment.
 
 ---
 
-## 🏗️ Application Architecture
+## Application Architecture
 
 The application follows a modular architecture that separates the frontend, backend, shared business logic, and database layer.
 
@@ -192,7 +192,7 @@ GST-BILLING-SYSTEM/
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 The application uses a relational MySQL database with Drizzle ORM.
 
@@ -220,7 +220,7 @@ The primary database tables include:
 
 ---
 
-## 🔐 Security & Data Protection
+## Security & Data Protection
 
 Security is an important part of the application architecture.
 
@@ -235,7 +235,7 @@ Security is an important part of the application architecture.
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 Follow these instructions to run the project locally.
 
@@ -318,7 +318,7 @@ The application should now be accessible in your browser.
 
 ---
 
-## 🎨 UI/UX Design Philosophy
+## UI/UX Design Philosophy
 
 The application follows a clean, minimal, and professional design approach.
 
@@ -338,7 +338,7 @@ The interface prioritizes usability, clarity, and accessibility rather than unne
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential improvements to expand the application's capabilities include:
 
@@ -358,7 +358,7 @@ Potential improvements to expand the application's capabilities include:
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - The application is an invoicing and business management tool; it does not directly file GST returns.
 - It does not currently submit invoices to government e-invoicing portals.
@@ -370,7 +370,7 @@ Potential improvements to expand the application's capabilities include:
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for educational and practical learning purposes.
 
